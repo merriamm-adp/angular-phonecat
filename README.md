@@ -11,6 +11,12 @@ Each tagged commit is a separate lesson teaching a single aspect of the framewor
 
 The full tutorial can be found at https://docs.angularjs.org/tutorial.
 
+## LOREM IPSUM
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mauris est, pellentesque quis neque eu, porttitor faucibus felis. Fusce quis.
+Generated via http://lipsum.com/feed/html
+```
 
 ## Prerequisites
 
@@ -256,14 +262,6 @@ package.json             --> Node.js specific metadata, including development to
 ## Contact
 
 For more information on AngularJS, please check out https://angularjs.org/.
-
-## LOREM IPSUM
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mauris est, pellentesque quis neque eu, porttitor faucibus felis. Fusce quis.
-Generated via http://lipsum.com/feed/html
-```
-
 
 [angular-seed]: https://github.com/angular/angular-seed
 [bower]: http://bower.io/

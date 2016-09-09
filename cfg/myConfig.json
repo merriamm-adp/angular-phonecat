@@ -2,5 +2,7 @@
 	"glossary": {
 		"title": "example glossary",
 		"GlossDiv": [1, 2, 3]
-	}
+	},
+	"mongodb": [ 'mongo1', 'mongo2' ],
+	"visible": false
 }
