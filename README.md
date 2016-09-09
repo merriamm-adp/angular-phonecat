@@ -257,6 +257,13 @@ package.json             --> Node.js specific metadata, including development to
 
 For more information on AngularJS, please check out https://angularjs.org/.
 
+## LOREM IPSUM
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mauris est, pellentesque quis neque eu, porttitor faucibus felis. Fusce quis.
+Generated via http://lipsum.com/feed/html
+```
+
 
 [angular-seed]: https://github.com/angular/angular-seed
 [bower]: http://bower.io/
